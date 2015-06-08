@@ -3,3 +3,10 @@ By: Peter Bell; Brent Beer
 Publisher: O'Reilly Media, Inc.
 Pub. Date: November 26, 2014
 Print ISBN-13: 978-1-4919-4974-0
+
+
+here is another book:
+Git: Version Control for Everyone Beginner's Guide
+By: Ravishankar Somasundaram
+Publisher: Packt Publishing
+Pub. Date: January 24, 2013
